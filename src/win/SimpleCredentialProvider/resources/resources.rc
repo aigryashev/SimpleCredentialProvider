@@ -1,0 +1,7 @@
+#include "resources.h"
+
+// Bitmaps:
+SIMPLECREDPROV_GAMERTILEIMAGE          BITMAP      DISCARDABLE "gamer.bmp"
+SIMPLECREDPROV_SYSTEMUSERTILEIMAGE     BITMAP      DISCARDABLE "systemuser.bmp"
+END
+

@@ -1,0 +1,2 @@
+1. Qt 5.15.2 (компилятор - msvc2019)
+2. Visual Studio Community 2019, v16.8.2. SDK 10.0.18362.0 (msvc for 16.8)

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/ui">
+        <file>logon_background.png</file>
+        <file>logon_background.bmp</file>
+    </qresource>
+</RCC>
